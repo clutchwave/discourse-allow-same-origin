@@ -24,4 +24,4 @@ Now you have to rebuild the container for the changes to be applied:
 
 References:
  - https://meta.discourse.org/t/advanced-troubleshooting-with-docker/15927
- - https://meta.discourse.org/t/x-frame-options-sameorigin-header-prevents-embedding/14928/7
+ - https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963/89
